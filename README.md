@@ -1,8 +1,7 @@
-# sample
+# Flutter_RxDart_GetStarted
 
-A new Flutter project.
+I implement Flutter's "[GetStarted](https://flutter.io/get-started/install/)" with using RxDart and BLoC pattern
 
-## Getting Started
+## Detail explanation
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+[Qiita](https://qiita.com/sensuikan1973/items/64f1a6235bd8ecaf9067)
