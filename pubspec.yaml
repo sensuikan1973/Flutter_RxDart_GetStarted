@@ -2,7 +2,7 @@ name: sample
 description: A new Flutter project.
 
 dependencies:
-  rxdart: "^0.16.7"
+  rxdart: "^0.20.0"
   flutter:
     sdk: flutter
 
@@ -55,5 +55,5 @@ flutter:
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   #
-  # For details regarding fonts from package dependencies, 
+  # For details regarding fonts from package dependencies,
   # see https://flutter.io/custom-fonts/#from-packages
